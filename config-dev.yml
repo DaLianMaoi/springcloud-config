@@ -221,7 +221,7 @@ mybatis-plus:
 
 # 日志
 logging:
-  file: xboot-logs/xboot.log
+  file: xboot-logs/xboot.log2
 
 
 
