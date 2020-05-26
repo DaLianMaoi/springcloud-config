@@ -133,7 +133,9 @@ xboot:
   # 第三方社交登录配置
   social:
     # 前端回调登录地址
-    callbackFeUrl: http://127.0.0.1:9999/login
+    callbackFeUrl: http://127.0.0.1:9999/
+    
+    in
     # 前端绑定账号回调地址
     callbackFeRelateUrl: http://127.0.0.1:9999/relate
     # github
@@ -221,7 +223,7 @@ mybatis-plus:
 
 # 日志
 logging:
-  file: xboot-logs/xboot.log2
+  file: xboot-logs/xboot.log-version3
 
 
 
